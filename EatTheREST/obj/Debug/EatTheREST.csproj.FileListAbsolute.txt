@@ -1,0 +1,6 @@
+D:\Projects\REST\EatTheREST\EatTheREST\bin\Debug\EatTheREST.exe.config
+D:\Projects\REST\EatTheREST\EatTheREST\bin\Debug\EatTheREST.exe
+D:\Projects\REST\EatTheREST\EatTheREST\bin\Debug\EatTheREST.pdb
+D:\Projects\REST\EatTheREST\EatTheREST\obj\Debug\EatTheREST.csprojResolveAssemblyReference.cache
+D:\Projects\REST\EatTheREST\EatTheREST\obj\Debug\EatTheREST.exe
+D:\Projects\REST\EatTheREST\EatTheREST\obj\Debug\EatTheREST.pdb
